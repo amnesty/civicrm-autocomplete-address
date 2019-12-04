@@ -1,0 +1,6 @@
+name = Address Autocomplete
+description = Autocomplete fields with addresses
+dependencies[] = webform
+core = 7.x
+package = Amnistia
+version = 1.0
